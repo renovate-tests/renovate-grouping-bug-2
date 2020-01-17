@@ -2,6 +2,7 @@
     "extends": [
         ":preserveSemverRanges"
     ],
+    "separateMultipleMajor": true,
     "packageRules": [
         {
             "packageNames": [
