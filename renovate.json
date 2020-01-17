@@ -2,6 +2,7 @@
     "extends": [
         ":preserveSemverRanges"
     ],
+    "rebaseStalePrs": true,
     "packageRules": [
         {
             "packageNames": [
